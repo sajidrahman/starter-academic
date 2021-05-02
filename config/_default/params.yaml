@@ -12,48 +12,48 @@ font_size: L
 
 # SEO
 
-site_type: Person
+site_type: Personal
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Personal Site for Sajid Rahman'
+twitter: 'sajidonly'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: rahmanm at ufl dot edu
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  city: Gainesville
+  region: FL
+  postcode: '32603'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: ''
+  longitude: ''
+directions: 
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/sajidonly'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: ''
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
-    link: 'https://keybase.io/'
+    link: ''
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: ''
 
 # Site header
 
