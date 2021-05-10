@@ -62,7 +62,7 @@ social:
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
  - icon: cv
-   icon_pack: ai
+   icon_pack: fab
    link: media/sajid_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -76,4 +76,4 @@ Hi, My name is Sajidur Rahman, friends and acquaintances call me 'Sajid' (pronou
 __Institute for Cybersecurity Research Center at University of Florida__. I work at the intersection of Software Engineering, Deep Learning/Natural Language Processing and Human-centered Security & Privacy Design.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/sajid_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fab" >}} Download my {{< staticref "media/sajid_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
