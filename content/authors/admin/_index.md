@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-Hi, My name is Sajidur Rahman, friends and acquaintances call me _'Sajid'_ (pronounced as 'SA-ZID'). I am a PhD Student at the
+Hi, My name is Sajidur Rahman, friends and acquaintances call me 'Sajid' (pronounced as "SA-ZID"). I am a PhD Student at the
 __Institute for Cybersecurity Research Center at University of Florida__. I work at the intersection of Software Engineering, Deep Learning/Natural Language Processing and Human-centered Security & Privacy Design.
 
 
